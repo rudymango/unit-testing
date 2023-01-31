@@ -1,0 +1,12 @@
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/bin/Debug/net7.0/StringLibrary.deps.json
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/bin/Debug/net7.0/StringLibrary.dll
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/bin/Debug/net7.0/StringLibrary.pdb
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfo.cs
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.dll
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/refint/StringLibrary.dll
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/StringLibrary.pdb
+/Users/williamevans/github/csharp/unit-testing/StringLibrary/obj/Debug/net7.0/ref/StringLibrary.dll
